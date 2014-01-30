@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Duck{
     FlyBehavior flyBehavior;
     QuackBehavior quackBehavior;
@@ -92,3 +93,13 @@ public class Duck{
 
 
 
+=======
+
+public class Duck{
+  public static void main(String[] args){
+    System.out.println("Comment test emacs");
+  }
+
+}
+
+>>>>>>> 9bd457eb96423d10d5a939d4f3d02f7384501c04
